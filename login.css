@@ -3,6 +3,7 @@ background-color: #4991e6;
 }
 #login {
 	position: relative;
+	margin: 0 auto;
 	float: left;
 	width: 100%;
 	top: 120px;
@@ -12,6 +13,7 @@ background-color: #4991e6;
 	position: relative;
 	display: inline-block;
 	padding: 15px 40px 15px 40px;
+	margin: 0 auto;
 	background-image: url(image/loginphoto.jpg);
 	background-repeat: no-repeat;
 	background-size: 356px 300px;
